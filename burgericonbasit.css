@@ -1,0 +1,8 @@
+@font-face {
+font-family: "BurgerIconBasit";
+src: url(https://burgertekno.github.io/burgericon/BurgerIconBasitFont.ttf);
+}
+  #burgericonfont
+  {
+  font-family: 'BurgerIconBasit';
+  }
